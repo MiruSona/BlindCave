@@ -6,6 +6,7 @@
 * 소리만으로 주변을 밝힐 수 있는 동굴에서 아내를 살리기 위한 꽃을 구하러 간다는 컨셉
 * 주인공이 땅에 닿을때, 또는 소리를 지속적으로 내는 꽃으로만 주변 시야를 밝힐 수 있음
 * 제한된 시야와 3종류의 꽃을 이용한 퍼즐이 특징
+* 게임잼 게시글 : [링크](https://globalgamejam.org/2017/games/blind-cave)
 
 ## 영상(이미지 클릭 시 유투브로 이동)
 [![BlindCave](https://img.youtube.com/vi/SzVPHOrWsBQ/0.jpg)](https://youtu.be/SzVPHOrWsBQ "BlindCave")
